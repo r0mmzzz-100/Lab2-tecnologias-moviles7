@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto Java Alejandro</string>
+    <string name="hint_nombre">Ingresa tu nombre</string>
+    <string name="btn_texto">Saludar desde Java</string>
+</resources>

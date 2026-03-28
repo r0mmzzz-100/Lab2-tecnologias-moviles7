@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moneda</string>
+    <string name="Dolares">A soles</string>
+    <string name="Soles">A dólares</string>
+    <string name="Convertir">Calcular</string>
+    <string name="miClicManejador">miClicManejador</string>
+    <string name="hint_cantidad">Ingresa cantidad a convertir</string>
+</resources>

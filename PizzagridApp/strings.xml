@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PizzaGrid Alejandro</string>
+    <string name="titulo_pizzeria">Pizzería Alejandro</string>
+
+    <string name="pizza_pepperoni">Pepperoni</string>
+    <string name="pizza_hawaiana">Hawaiana</string>
+    <string name="pizza_margarita">Margarita</string>
+    <string name="pizza_4quesos">4 Quesos</string>
+    <string name="pizza_vegetariana">Vegetariana</string>
+    <string name="pizza_suprema">Suprema</string>
+    <string name="pizza_americana">Americana</string>
+    <string name="pizza_bbq">BBQ Chicken</string>
+</resources>
